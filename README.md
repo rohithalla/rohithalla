@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **rohithalla/rohithalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hello Amigos 👋
+#### Rohith Alla here! 
+* 🌱 Currently a undergrad at Indian Institute of Information Technology Sricity.<br>
+* ⚡ Highly analytical individual with strong apt for learning and collaborative skills.<br>
+##### Contact:
+[![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/rohith-alla/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](mailto:rohit.alla2000@gmail.com)</br>
+<!--* 📫 Want to know more about me? : [Resume](https://drive.google.com/file/d/1gWw86QSCtAAtGs7w5rMWt-dtgOfwnsBN/view?usp=sharing)-->
+<img align="left"  src="https://github-readme-stats.vercel.app/api?username=rohithalla&show_icons=true&hide_border=true" />
