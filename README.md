@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 ### Hello Amigos 👋
 #### Rohith Alla here! 
-* 🌱 Currently a undergrad at Indian Institute of Information Technology Sricity.<br>
+* 🧑‍💼 Working as Data Engineer at SpringML. Inc
+* 🌱 Graduated from Indian Institute of Information Technology Sricity.<br>
 * ⚡ Highly analytical individual with strong apt for learning and collaborative skills.<br>
 ##### Contact:
 [![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/rohith-alla/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](mailto:rohit.alla2000@gmail.com)</br>
