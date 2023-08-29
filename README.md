@@ -37,7 +37,7 @@ I'm Rohith Alla, a passionate Data Engineer with a strong analytical mindset and
 ## Get in Touch
 
 Feel free to reach out to me. I'm always open to interesting discussions and collaboration.
-
+[![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/rohith-alla/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![mail](https://github.com/arpit-dwivedi/arpit-dwivedi/blob/master/m1.png)](mailto:rohit.alla2000@gmail.com)</br>
 [![LinkedIn](https://raw.githubusercontent.com/rohithalla/rohithalla/main/assets/linkedin.png)](https://www.linkedin.com/in/rohith-alla/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Email](https://raw.githubusercontent.com/rohithalla/rohithalla/main/assets/email.png)](mailto:rohit.alla2000@gmail.com)
