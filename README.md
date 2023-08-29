@@ -24,6 +24,8 @@ I'm Rohith Alla, a passionate Data Engineer with a strong analytical mindset and
   - CI/CD, BigQuery, Cloud SQL, Cloud Storage
   - Cloud Functions, Cloud Dataflow, Cloud Dataproc, Cloud Pub/Sub
   - AutoML, Vertex AI, Document AI
+
+### Certifications
 - ☁️ Associate Cloud Engineer - Valid until April 2024
 - ☁️ Professional Data Engineer - Valid until December 2024
 - ☁️ Professional Cloud Security Engineer - Valid until April 2025
