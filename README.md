@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hello, World! 👋
 
 I'm Rohith Alla, a passionate Data Engineer with a strong analytical mindset and a dedication to continuous learning. Welcome to my GitHub profile! ✨
 
@@ -10,9 +10,24 @@ I'm Rohith Alla, a passionate Data Engineer with a strong analytical mindset and
 
 ## Tech Stack
 
-- 💻 Python | SQL | Java
-- 🛢️ Data Warehousing | ETL Processes | Data Modeling
-- 🔧 Tools: Apache Spark, Apache Airflow, AWS Glue, Git
+### Languages and Tools
+
+- 💻 Languages: C, C++, Python, HTML5 (HTML, CSS, JS)
+- 🔧 Frameworks: Flask, Angular, Firestore, Firebase, GitHub
+- 📊 Data Analytic Tools: Numpy, Scipy, Matplotlib, Pandas, SciKit-Learn, TensorFlow, Keras
+
+### Cloud Technologies
+
+- ☁️ Google Cloud Platform (GCP) Services: 
+  - App Engine, Compute Engine
+  - Chatbot: DialogFlow ES & DialogFlow CX
+  - CI/CD, BigQuery, Cloud SQL, Cloud Storage
+  - Cloud Functions, Cloud Dataflow, Cloud Dataproc, Cloud Pub/Sub
+  - AutoML, Vertex AI, Document AI
+- ☁️ Associate Cloud Engineer - Valid until April 2024
+- ☁️ Professional Data Engineer - Valid until December 2024
+- ☁️ Professional Cloud Security Engineer - Valid until April 2025
+- ☁️ Professional Machine Learning Engineer - Valid until May 2025
 
 ## Projects
 
@@ -23,8 +38,9 @@ I'm Rohith Alla, a passionate Data Engineer with a strong analytical mindset and
 
 Feel free to reach out to me. I'm always open to interesting discussions and collaboration.
 
-- LinkedIn: [rohith-alla](https://www.linkedin.com/in/rohith-alla/)
-- Email: [rohit.alla2000@gmail.com](mailto:rohit.alla2000@gmail.com)
+[![LinkedIn](https://raw.githubusercontent.com/rohithalla/rohithalla/main/assets/linkedin.png)](https://www.linkedin.com/in/rohith-alla/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Email](https://raw.githubusercontent.com/rohithalla/rohithalla/main/assets/email.png)](mailto:rohit.alla2000@gmail.com)
 
 ## Fun Fact
 
