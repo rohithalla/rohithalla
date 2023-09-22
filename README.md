@@ -1,10 +1,10 @@
 # Hello, World! 👋
 
-I'm Rohith Alla, a passionate Data Engineer with a strong analytical mindset and a dedication to continuous learning. Welcome to my GitHub profile! ✨
+I'm Rohith Alla, a passionate ML Engineer with a strong analytical mindset and a dedication to continuous learning. Welcome to my GitHub profile! ✨
 
 ## About Me
 
-- 🧑‍💼 Currently employed as a Data Engineer at SpringML, Inc.
+- 🧑‍💼 Currently employed as a ML application Engineer at Egen.
 - 🎓 Graduated from the Indian Institute of Information Technology Sricity.
 - ⚡ Highly analytical individual with a strong aptitude for learning and collaborative skills.
 
